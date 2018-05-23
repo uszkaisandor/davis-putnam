@@ -1,23 +1,24 @@
-# davis-putnam
+# davis-putnam  
 
-Java implementation of the original Davis-Putnam algorithm (1960).
+Java implementation of the original Davis-Putnam algorithm (1960).  
 
 ### Prerequisites
 
-JDK8
+JDK8  
 IntelliJ IDEA or Android Studio
 
 ### Input format
 
-The Main class reads a CNF from standard input.
-Format examples:
-(x)
-((r)∧(¬r))
-((r)∧(¬r∨¬s)∧(s)∧(p∨s))
+The Main class reads a CNF from standard input.  
+Format examples:  
+(x)  
+((r)∧(¬r))  
+((r)∧(¬r∨¬s)∧(s)∧(p∨s))  
 
 ## Author
 
-* **Sándor Uszkai** (https://github.com/uszkaisandor)
+* **Sándor Uszkai**  
+(https://github.com/uszkaisandor)
 
 ## License
 
