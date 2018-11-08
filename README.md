@@ -9,7 +9,8 @@ IntelliJ IDEA or Android Studio
 
 ### Input format
 
-The Main class reads a CNF from standard input.  
+The Main class reads a CNF from standard input.
+Formula validator is not implemented yet.
 Format examples:  
 (x)  
 ((r)∧(¬r))  
